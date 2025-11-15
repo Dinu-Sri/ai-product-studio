@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Application specific
+presets.db
+*.db
+*.log
+
+# ONNX Models - downloaded on first run
+*.onnx
+
+# User data
+output/
+backgrounds/
+
+# Build artifacts
+*.exe
+*.app
+*.dmg
